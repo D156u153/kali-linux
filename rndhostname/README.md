@@ -23,3 +23,11 @@ mkdir ~/.config/autostart
     
     
     [Desktop Entry]
+    Type=Application
+    Exec=/usr/bin/rndhostname
+    Hidden=false
+    X-GNOME-Autostart-enabled=true
+    Name[en_US]=rndhostname
+    Name=rndhostname
+    Comment[en_US]=Start rndhostname when GNOME starts
+    Comment=Start rndhostname when GNOME starts
