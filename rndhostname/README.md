@@ -19,7 +19,7 @@ Open terminal and execute this to make a directory named autostart if it doesn�
 
 mkdir ~/.config/autostart
 
-    Now you have to create a file using gEdit or any other text editor for the intended applications, which you want to run at startup. The name format for that file can be anything like applications_name.desktop. It’s mainly a .desktop file containing necessary info to run that specific program at startup, e.g. I wanted to run ibus-daemon at startup. So I created the following file:
+    Now you have to create a file using gEdit or any other text editor for the intended applications, which you want to run at startup. The name format for that file can be anything like applications_name.desktop. It’s mainly a .desktop file containing necessary info to run that specific program at startup, e.g. I wanted to run rndhostname at startup. So I created the following file:
 
 [Desktop Entry]
 Type=Application
